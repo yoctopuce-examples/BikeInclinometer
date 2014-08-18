@@ -118,6 +118,7 @@
             this.inputFileTextbox.Name = "inputFileTextbox";
             this.inputFileTextbox.Size = new System.Drawing.Size(493, 20);
             this.inputFileTextbox.TabIndex = 13;
+            this.inputFileTextbox.Text = "C:\\TMP\\GOPR0217.MP4";
             // 
             // outFileTextBox
             // 
